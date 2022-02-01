@@ -1,0 +1,5 @@
+外部ライブラリ「Newtonsoft.Json」が必要です。
+
+・Visual Studioに設定する場合
+Visual Studio のメニューで [プロジェクト] – [NuGet パッケージの管理]を選択します。
+参照タブで「Json.net」という文字列で検索したら、一覧から「Newtonsoft.Json」を選択して、「インストール」をクリックします。
